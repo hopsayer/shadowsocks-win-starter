@@ -16,7 +16,7 @@ No heavy, complicated GUI clients or any installations are needed.
 
 ## Required file structure
 ```
-|shadowsocks
+|proxy-folder
 ├── proxy.bat
 ├── config.json
 └── sslocal.exe
